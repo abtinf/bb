@@ -1,0 +1,2 @@
+# bb
+Bitburner scripts
